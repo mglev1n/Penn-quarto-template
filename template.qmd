@@ -12,4 +12,4 @@ format: Penn-quarto-template-revealjs
 
 <hr style="border-top: 4px solid #990000;">
 
-Test text
+Test [Google](google.com)
