@@ -1,0 +1,15 @@
+---
+title: |
+  Title
+  <hr style="border-top: 4px solid #990000;">
+author: "Firstname Lastname"
+date: last-modified
+institute: "Institution"
+format: Penn-quarto-template-revealjs
+---
+
+## First Page
+
+<hr style="border-top: 4px solid #990000;">
+
+Test text
